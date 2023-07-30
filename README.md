@@ -1,6 +1,6 @@
 # Responsive Web Design using HTML, CSS, and Basic JS
 
-![Website Preview](preview.png)
+![Website Preview](https://omnifood.dev/)
 
 ## Description
 
