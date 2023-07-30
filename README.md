@@ -37,7 +37,3 @@ This is a visually engaging and fully responsive website built with HTML, CSS, a
 
 The website is optimized and compatible with modern web browsers, including Google Chrome, Mozilla Firefox, Microsoft Edge, and Safari. It is designed to provide a seamless experience on desktop and mobile devices.
 
-## Credits
-
-- Any third-party libraries or frameworks used in the project should be credited here.
-- If you used images or assets from external sources, provide attribution and links to the original content (if required).
